@@ -1,0 +1,15 @@
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\02_DataTypes\02_DataTypes\bin\Debug\net10.0\02_DataTypes.exe
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\02_DataTypes\02_DataTypes\bin\Debug\net10.0\02_DataTypes.deps.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\02_DataTypes\02_DataTypes\bin\Debug\net10.0\02_DataTypes.runtimeconfig.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\02_DataTypes\02_DataTypes\bin\Debug\net10.0\02_DataTypes.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\02_DataTypes\02_DataTypes\bin\Debug\net10.0\02_DataTypes.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\02_DataTypes\02_DataTypes\obj\Debug\net10.0\02_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\02_DataTypes\02_DataTypes\obj\Debug\net10.0\02_DataTypes.AssemblyInfoInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\02_DataTypes\02_DataTypes\obj\Debug\net10.0\02_DataTypes.AssemblyInfo.cs
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\02_DataTypes\02_DataTypes\obj\Debug\net10.0\02_DataTypes.csproj.CoreCompileInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\02_DataTypes\02_DataTypes\obj\Debug\net10.0\02_DataTypes.sourcelink.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\02_DataTypes\02_DataTypes\obj\Debug\net10.0\02_DataTypes.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\02_DataTypes\02_DataTypes\obj\Debug\net10.0\refint\02_DataTypes.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\02_DataTypes\02_DataTypes\obj\Debug\net10.0\02_DataTypes.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\02_DataTypes\02_DataTypes\obj\Debug\net10.0\02_DataTypes.genruntimeconfig.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\02_DataTypes\02_DataTypes\obj\Debug\net10.0\ref\02_DataTypes.dll
