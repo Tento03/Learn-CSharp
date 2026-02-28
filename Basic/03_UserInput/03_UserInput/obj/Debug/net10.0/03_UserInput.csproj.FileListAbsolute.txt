@@ -1,0 +1,15 @@
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\03_UserInput\03_UserInput\bin\Debug\net10.0\03_UserInput.exe
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\03_UserInput\03_UserInput\bin\Debug\net10.0\03_UserInput.deps.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\03_UserInput\03_UserInput\bin\Debug\net10.0\03_UserInput.runtimeconfig.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\03_UserInput\03_UserInput\bin\Debug\net10.0\03_UserInput.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\03_UserInput\03_UserInput\bin\Debug\net10.0\03_UserInput.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\03_UserInput\03_UserInput\obj\Debug\net10.0\03_UserInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\03_UserInput\03_UserInput\obj\Debug\net10.0\03_UserInput.AssemblyInfoInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\03_UserInput\03_UserInput\obj\Debug\net10.0\03_UserInput.AssemblyInfo.cs
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\03_UserInput\03_UserInput\obj\Debug\net10.0\03_UserInput.csproj.CoreCompileInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\03_UserInput\03_UserInput\obj\Debug\net10.0\03_UserInput.sourcelink.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\03_UserInput\03_UserInput\obj\Debug\net10.0\03_UserInput.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\03_UserInput\03_UserInput\obj\Debug\net10.0\refint\03_UserInput.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\03_UserInput\03_UserInput\obj\Debug\net10.0\03_UserInput.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\03_UserInput\03_UserInput\obj\Debug\net10.0\03_UserInput.genruntimeconfig.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\03_UserInput\03_UserInput\obj\Debug\net10.0\ref\03_UserInput.dll
