@@ -1,0 +1,15 @@
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\04_Polymorphism\04_Polymorphism\bin\Debug\net10.0\04_Polymorphism.exe
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\04_Polymorphism\04_Polymorphism\bin\Debug\net10.0\04_Polymorphism.deps.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\04_Polymorphism\04_Polymorphism\bin\Debug\net10.0\04_Polymorphism.runtimeconfig.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\04_Polymorphism\04_Polymorphism\bin\Debug\net10.0\04_Polymorphism.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\04_Polymorphism\04_Polymorphism\bin\Debug\net10.0\04_Polymorphism.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\04_Polymorphism\04_Polymorphism\obj\Debug\net10.0\04_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\04_Polymorphism\04_Polymorphism\obj\Debug\net10.0\04_Polymorphism.AssemblyInfoInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\04_Polymorphism\04_Polymorphism\obj\Debug\net10.0\04_Polymorphism.AssemblyInfo.cs
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\04_Polymorphism\04_Polymorphism\obj\Debug\net10.0\04_Polymorphism.csproj.CoreCompileInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\04_Polymorphism\04_Polymorphism\obj\Debug\net10.0\04_Polymorphism.sourcelink.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\04_Polymorphism\04_Polymorphism\obj\Debug\net10.0\04_Polymorphism.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\04_Polymorphism\04_Polymorphism\obj\Debug\net10.0\refint\04_Polymorphism.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\04_Polymorphism\04_Polymorphism\obj\Debug\net10.0\04_Polymorphism.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\04_Polymorphism\04_Polymorphism\obj\Debug\net10.0\04_Polymorphism.genruntimeconfig.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\04_Polymorphism\04_Polymorphism\obj\Debug\net10.0\ref\04_Polymorphism.dll
