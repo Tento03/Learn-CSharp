@@ -1,0 +1,15 @@
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\09_Method\09_Method\obj\Debug\net10.0\09_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\09_Method\09_Method\obj\Debug\net10.0\09_Method.AssemblyInfoInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\09_Method\09_Method\obj\Debug\net10.0\09_Method.AssemblyInfo.cs
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\09_Method\09_Method\obj\Debug\net10.0\09_Method.csproj.CoreCompileInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\09_Method\09_Method\obj\Debug\net10.0\09_Method.sourcelink.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\09_Method\09_Method\bin\Debug\net10.0\09_Method.exe
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\09_Method\09_Method\bin\Debug\net10.0\09_Method.deps.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\09_Method\09_Method\bin\Debug\net10.0\09_Method.runtimeconfig.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\09_Method\09_Method\bin\Debug\net10.0\09_Method.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\09_Method\09_Method\bin\Debug\net10.0\09_Method.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\09_Method\09_Method\obj\Debug\net10.0\09_Method.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\09_Method\09_Method\obj\Debug\net10.0\refint\09_Method.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\09_Method\09_Method\obj\Debug\net10.0\09_Method.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\09_Method\09_Method\obj\Debug\net10.0\09_Method.genruntimeconfig.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\09_Method\09_Method\obj\Debug\net10.0\ref\09_Method.dll
