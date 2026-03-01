@@ -1,0 +1,15 @@
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\08_Array&List\08_Array&List\bin\Debug\net10.0\08_Array&List.exe
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\08_Array&List\08_Array&List\bin\Debug\net10.0\08_Array&List.deps.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\08_Array&List\08_Array&List\bin\Debug\net10.0\08_Array&List.runtimeconfig.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\08_Array&List\08_Array&List\bin\Debug\net10.0\08_Array&List.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\08_Array&List\08_Array&List\bin\Debug\net10.0\08_Array&List.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\08_Array&List\08_Array&List\obj\Debug\net10.0\08_Array&List.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\08_Array&List\08_Array&List\obj\Debug\net10.0\08_Array&List.AssemblyInfoInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\08_Array&List\08_Array&List\obj\Debug\net10.0\08_Array&List.AssemblyInfo.cs
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\08_Array&List\08_Array&List\obj\Debug\net10.0\08_Array&List.csproj.CoreCompileInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\08_Array&List\08_Array&List\obj\Debug\net10.0\08_Array&List.sourcelink.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\08_Array&List\08_Array&List\obj\Debug\net10.0\08_Array&List.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\08_Array&List\08_Array&List\obj\Debug\net10.0\refint\08_Array&List.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\08_Array&List\08_Array&List\obj\Debug\net10.0\08_Array&List.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\08_Array&List\08_Array&List\obj\Debug\net10.0\08_Array&List.genruntimeconfig.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\08_Array&List\08_Array&List\obj\Debug\net10.0\ref\08_Array&List.dll
