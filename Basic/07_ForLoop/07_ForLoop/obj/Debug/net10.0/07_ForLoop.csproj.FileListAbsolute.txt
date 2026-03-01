@@ -1,0 +1,15 @@
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\07_ForLoop\07_ForLoop\bin\Debug\net10.0\07_ForLoop.exe
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\07_ForLoop\07_ForLoop\bin\Debug\net10.0\07_ForLoop.deps.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\07_ForLoop\07_ForLoop\bin\Debug\net10.0\07_ForLoop.runtimeconfig.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\07_ForLoop\07_ForLoop\bin\Debug\net10.0\07_ForLoop.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\07_ForLoop\07_ForLoop\bin\Debug\net10.0\07_ForLoop.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\07_ForLoop\07_ForLoop\obj\Debug\net10.0\07_ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\07_ForLoop\07_ForLoop\obj\Debug\net10.0\07_ForLoop.AssemblyInfoInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\07_ForLoop\07_ForLoop\obj\Debug\net10.0\07_ForLoop.AssemblyInfo.cs
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\07_ForLoop\07_ForLoop\obj\Debug\net10.0\07_ForLoop.csproj.CoreCompileInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\07_ForLoop\07_ForLoop\obj\Debug\net10.0\07_ForLoop.sourcelink.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\07_ForLoop\07_ForLoop\obj\Debug\net10.0\07_ForLoop.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\07_ForLoop\07_ForLoop\obj\Debug\net10.0\refint\07_ForLoop.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\07_ForLoop\07_ForLoop\obj\Debug\net10.0\07_ForLoop.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\07_ForLoop\07_ForLoop\obj\Debug\net10.0\07_ForLoop.genruntimeconfig.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\07_ForLoop\07_ForLoop\obj\Debug\net10.0\ref\07_ForLoop.dll
