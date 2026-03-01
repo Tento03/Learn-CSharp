@@ -1,0 +1,15 @@
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\03_Inheritance\03_Inheritance\bin\Debug\net10.0\03_Inheritance.exe
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\03_Inheritance\03_Inheritance\bin\Debug\net10.0\03_Inheritance.deps.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\03_Inheritance\03_Inheritance\bin\Debug\net10.0\03_Inheritance.runtimeconfig.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\03_Inheritance\03_Inheritance\bin\Debug\net10.0\03_Inheritance.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\03_Inheritance\03_Inheritance\bin\Debug\net10.0\03_Inheritance.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\03_Inheritance\03_Inheritance\obj\Debug\net10.0\03_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\03_Inheritance\03_Inheritance\obj\Debug\net10.0\03_Inheritance.AssemblyInfoInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\03_Inheritance\03_Inheritance\obj\Debug\net10.0\03_Inheritance.AssemblyInfo.cs
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\03_Inheritance\03_Inheritance\obj\Debug\net10.0\03_Inheritance.csproj.CoreCompileInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\03_Inheritance\03_Inheritance\obj\Debug\net10.0\03_Inheritance.sourcelink.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\03_Inheritance\03_Inheritance\obj\Debug\net10.0\03_Inheritance.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\03_Inheritance\03_Inheritance\obj\Debug\net10.0\refint\03_Inheritance.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\03_Inheritance\03_Inheritance\obj\Debug\net10.0\03_Inheritance.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\03_Inheritance\03_Inheritance\obj\Debug\net10.0\03_Inheritance.genruntimeconfig.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\03_Inheritance\03_Inheritance\obj\Debug\net10.0\ref\03_Inheritance.dll
