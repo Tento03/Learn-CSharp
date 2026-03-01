@@ -1,0 +1,15 @@
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\06_WhileLoop\06_WhileLoop\bin\Debug\net10.0\06_WhileLoop.exe
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\06_WhileLoop\06_WhileLoop\bin\Debug\net10.0\06_WhileLoop.deps.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\06_WhileLoop\06_WhileLoop\bin\Debug\net10.0\06_WhileLoop.runtimeconfig.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\06_WhileLoop\06_WhileLoop\bin\Debug\net10.0\06_WhileLoop.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\06_WhileLoop\06_WhileLoop\bin\Debug\net10.0\06_WhileLoop.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\06_WhileLoop\06_WhileLoop\obj\Debug\net10.0\06_WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\06_WhileLoop\06_WhileLoop\obj\Debug\net10.0\06_WhileLoop.AssemblyInfoInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\06_WhileLoop\06_WhileLoop\obj\Debug\net10.0\06_WhileLoop.AssemblyInfo.cs
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\06_WhileLoop\06_WhileLoop\obj\Debug\net10.0\06_WhileLoop.csproj.CoreCompileInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\06_WhileLoop\06_WhileLoop\obj\Debug\net10.0\06_WhileLoop.sourcelink.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\06_WhileLoop\06_WhileLoop\obj\Debug\net10.0\06_WhileLoop.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\06_WhileLoop\06_WhileLoop\obj\Debug\net10.0\refint\06_WhileLoop.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\06_WhileLoop\06_WhileLoop\obj\Debug\net10.0\06_WhileLoop.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\06_WhileLoop\06_WhileLoop\obj\Debug\net10.0\06_WhileLoop.genruntimeconfig.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\06_WhileLoop\06_WhileLoop\obj\Debug\net10.0\ref\06_WhileLoop.dll
