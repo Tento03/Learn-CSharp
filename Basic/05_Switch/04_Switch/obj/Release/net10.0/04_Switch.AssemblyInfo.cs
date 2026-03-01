@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04_Switch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea99149bece863de1c33c702d3aa15852b999e19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca0b63d1e91e02a743290eaf002975a06f028f4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("04_Switch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04_Switch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

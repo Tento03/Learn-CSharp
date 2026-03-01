@@ -1,0 +1,15 @@
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\02_Encapsulation\02_Encapsulation\bin\Debug\net10.0\02_Encapsulation.exe
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\02_Encapsulation\02_Encapsulation\bin\Debug\net10.0\02_Encapsulation.deps.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\02_Encapsulation\02_Encapsulation\bin\Debug\net10.0\02_Encapsulation.runtimeconfig.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\02_Encapsulation\02_Encapsulation\bin\Debug\net10.0\02_Encapsulation.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\02_Encapsulation\02_Encapsulation\bin\Debug\net10.0\02_Encapsulation.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\02_Encapsulation\02_Encapsulation\obj\Debug\net10.0\02_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\02_Encapsulation\02_Encapsulation\obj\Debug\net10.0\02_Encapsulation.AssemblyInfoInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\02_Encapsulation\02_Encapsulation\obj\Debug\net10.0\02_Encapsulation.AssemblyInfo.cs
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\02_Encapsulation\02_Encapsulation\obj\Debug\net10.0\02_Encapsulation.csproj.CoreCompileInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\02_Encapsulation\02_Encapsulation\obj\Debug\net10.0\02_Encapsulation.sourcelink.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\02_Encapsulation\02_Encapsulation\obj\Debug\net10.0\02_Encapsulation.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\02_Encapsulation\02_Encapsulation\obj\Debug\net10.0\refint\02_Encapsulation.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\02_Encapsulation\02_Encapsulation\obj\Debug\net10.0\02_Encapsulation.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\02_Encapsulation\02_Encapsulation\obj\Debug\net10.0\02_Encapsulation.genruntimeconfig.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\02_Encapsulation\02_Encapsulation\obj\Debug\net10.0\ref\02_Encapsulation.dll
