@@ -1,0 +1,15 @@
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_Switch\04_Switch\bin\Debug\net10.0\04_Switch.exe
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_Switch\04_Switch\bin\Debug\net10.0\04_Switch.deps.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_Switch\04_Switch\bin\Debug\net10.0\04_Switch.runtimeconfig.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_Switch\04_Switch\bin\Debug\net10.0\04_Switch.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_Switch\04_Switch\bin\Debug\net10.0\04_Switch.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_Switch\04_Switch\obj\Debug\net10.0\04_Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_Switch\04_Switch\obj\Debug\net10.0\04_Switch.AssemblyInfoInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_Switch\04_Switch\obj\Debug\net10.0\04_Switch.AssemblyInfo.cs
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_Switch\04_Switch\obj\Debug\net10.0\04_Switch.csproj.CoreCompileInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_Switch\04_Switch\obj\Debug\net10.0\04_Switch.sourcelink.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_Switch\04_Switch\obj\Debug\net10.0\04_Switch.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_Switch\04_Switch\obj\Debug\net10.0\refint\04_Switch.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_Switch\04_Switch\obj\Debug\net10.0\04_Switch.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_Switch\04_Switch\obj\Debug\net10.0\04_Switch.genruntimeconfig.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_Switch\04_Switch\obj\Debug\net10.0\ref\04_Switch.dll
