@@ -1,0 +1,15 @@
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_IfElse\04_IfElse\bin\Debug\net10.0\04_IfElse.exe
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_IfElse\04_IfElse\bin\Debug\net10.0\04_IfElse.deps.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_IfElse\04_IfElse\bin\Debug\net10.0\04_IfElse.runtimeconfig.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_IfElse\04_IfElse\bin\Debug\net10.0\04_IfElse.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_IfElse\04_IfElse\bin\Debug\net10.0\04_IfElse.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_IfElse\04_IfElse\obj\Debug\net10.0\04_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_IfElse\04_IfElse\obj\Debug\net10.0\04_IfElse.AssemblyInfoInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_IfElse\04_IfElse\obj\Debug\net10.0\04_IfElse.AssemblyInfo.cs
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_IfElse\04_IfElse\obj\Debug\net10.0\04_IfElse.csproj.CoreCompileInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_IfElse\04_IfElse\obj\Debug\net10.0\04_IfElse.sourcelink.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_IfElse\04_IfElse\obj\Debug\net10.0\04_IfElse.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_IfElse\04_IfElse\obj\Debug\net10.0\refint\04_IfElse.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_IfElse\04_IfElse\obj\Debug\net10.0\04_IfElse.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_IfElse\04_IfElse\obj\Debug\net10.0\04_IfElse.genruntimeconfig.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\Basic\04_IfElse\04_IfElse\obj\Debug\net10.0\ref\04_IfElse.dll
