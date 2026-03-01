@@ -1,0 +1,15 @@
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\01_Class&Object\01_Class&Object\bin\Debug\net10.0\01_Class&Object.exe
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\01_Class&Object\01_Class&Object\bin\Debug\net10.0\01_Class&Object.deps.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\01_Class&Object\01_Class&Object\bin\Debug\net10.0\01_Class&Object.runtimeconfig.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\01_Class&Object\01_Class&Object\bin\Debug\net10.0\01_Class&Object.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\01_Class&Object\01_Class&Object\bin\Debug\net10.0\01_Class&Object.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\01_Class&Object\01_Class&Object\obj\Debug\net10.0\01_Class&Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\01_Class&Object\01_Class&Object\obj\Debug\net10.0\01_Class&Object.AssemblyInfoInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\01_Class&Object\01_Class&Object\obj\Debug\net10.0\01_Class&Object.AssemblyInfo.cs
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\01_Class&Object\01_Class&Object\obj\Debug\net10.0\01_Class&Object.csproj.CoreCompileInputs.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\01_Class&Object\01_Class&Object\obj\Debug\net10.0\01_Class&Object.sourcelink.json
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\01_Class&Object\01_Class&Object\obj\Debug\net10.0\01_Class&Object.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\01_Class&Object\01_Class&Object\obj\Debug\net10.0\refint\01_Class&Object.dll
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\01_Class&Object\01_Class&Object\obj\Debug\net10.0\01_Class&Object.pdb
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\01_Class&Object\01_Class&Object\obj\Debug\net10.0\01_Class&Object.genruntimeconfig.cache
+D:\BAHASA PEMROGRAMAN\C#\Learn-CSharp\OOP\01_Class&Object\01_Class&Object\obj\Debug\net10.0\ref\01_Class&Object.dll
